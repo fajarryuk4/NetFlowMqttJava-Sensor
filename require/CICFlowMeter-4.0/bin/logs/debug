@@ -1,0 +1,9 @@
+2020-10-16 17:17:36 INFO  cic.cs.unb.ca.ifm.AutomaticFlowmeter    Starting Proccess....
+2020-10-16 17:17:36 INFO  cic.cs.unb.ca.mqtt.IMqttClient    Connecting to broker: tcp://192.168.43.20:1883
+2020-10-16 17:17:37 INFO  cic.cs.unb.ca.mqtt.IMqttClient    Connected
+2020-10-16 17:17:37 INFO  cic.cs.unb.ca.flow.FlowMonitor    Listen at Interface wlp3s0
+2020-10-16 17:17:37 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2020-10-16 17:17:37 DEBUG cic.cs.unb.ca.flow.FlowMonitor    Listening in cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker@4b7a9f75
+2020-10-16 17:17:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2020-10-16 17:17:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2020-10-16 17:17:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
